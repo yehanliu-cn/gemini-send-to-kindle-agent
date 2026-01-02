@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "st";
+    src:  url("../Fonts/st.ttf"),
+        local("st"),
+        local("宋体"),
+        local("DK-SONGTI"),
+        local("STSongti"),
+        local("STSong"),
+        local("Song S"),
+        local("Songti"), 
+        local("Songti SC"), 
+        local("Songti TC");
+}
+@font-face {
+    font-family: "kt";
+    src:  url("../Fonts/f103.ttf");
+}
+@font-face {
+    font-family: "ht";
+    src:  url("../Fonts/f102.ttf");
+}
+@font-face {
+    font-family: "fs";
+    src:  url("../Fonts/f100.ttf");
+}
+@font-face {
+    font-family: "h2";
+    src:  url("../Fonts/f101.ttf");
+}
+@font-face {
+    font-family: "fs2";
+    src:  url("../Fonts/f104.ttf");
+}
+@font-face{
+    font-family: "fzqys";
+    src:  url("../Fonts/f99.ttf");
+}
+@font-face{
+    font-family: "myss";
+    src:  url("../Fonts/f105.ttf");
+}
