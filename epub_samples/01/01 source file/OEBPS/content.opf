@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="duokan-book-id">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>大唐狄公案</dc:title>
+    <dc:creator>高罗佩</dc:creator>
+    <dc:language>zh-CN</dc:language>
+    <meta name="duokan-body-font" content="DK-SONGTI"/>
+    <meta name="Sigil version" content="0.9.10"/>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2025-12-30</dc:date>
+    <dc:identifier id="duokan-book-id">3473131465</dc:identifier>
+    <meta name="cover" content="f61"/>
+  </metadata>
+  <manifest>
+    <item id="f0" href="Text/f0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f1" href="Text/f1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f2" href="Text/f2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f3" href="Text/f3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f4" href="Text/f4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f5" href="Text/f5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f6" href="Text/f6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f7" href="Text/f7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f8" href="Text/f8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f9" href="Text/f9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f10" href="Text/f10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f11" href="Text/f11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f12" href="Text/f12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f13" href="Text/f13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f14" href="Text/f14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f15" href="Text/f15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f16" href="Text/f16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f17" href="Text/f17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f18" href="Text/f18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f19" href="Text/f19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f20" href="Text/f20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f21" href="Text/f21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f22" href="Text/f22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f23" href="Text/f23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f24" href="Text/f24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f25" href="Text/f25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f26" href="Text/f26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f27" href="Text/f27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f28" href="Text/f28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f29" href="Text/f29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f30" href="Text/f30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f31" href="Text/f31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f32" href="Text/f32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f33" href="Styles/f33.css" media-type="text/css"/>
+    <item id="f34" href="Styles/f34.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="f36" href="Images/f36.jpeg" media-type="image/jpeg"/>
+    <item id="f37" href="Images/f37.jpeg" media-type="image/jpeg"/>
+    <item id="f38" href="Images/f38.jpeg" media-type="image/jpeg"/>
+    <item id="f39" href="Images/f39.jpeg" media-type="image/jpeg"/>
+    <item id="f40" href="Text/f40.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f41" href="Text/f41.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f42" href="Text/f42.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f43" href="Text/f43.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f44" href="Text/f44.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f45" href="Text/f45.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f46" href="Text/f46.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f47" href="Text/f47.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f48" href="Text/f48.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f49" href="Text/f49.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f50" href="Text/f50.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f51" href="Text/f51.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f52" href="Text/f52.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f53" href="Text/f53.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f54" href="Text/f54.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f55" href="Text/f55.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f56" href="Text/f56.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f57" href="Text/f57.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f58" href="Text/f58.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f59" href="Text/f59.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f60" href="Text/f60.xhtml" media-type="application/xhtml+xml"/>
+    <item id="f61" href="Images/f61.jpg" media-type="image/jpeg"/>
+    <item id="f62" href="Images/f62.jpeg" media-type="image/jpeg"/>
+    <item id="f63" href="Images/f63.jpeg" media-type="image/jpeg"/>
+    <item id="f64" href="Images/f64.jpeg" media-type="image/jpeg"/>
+    <item id="f65" href="Images/f65.jpeg" media-type="image/jpeg"/>
+    <item id="f66" href="Images/f66.jpeg" media-type="image/jpeg"/>
+    <item id="f67" href="Images/f67.jpeg" media-type="image/jpeg"/>
+    <item id="f68" href="Images/f68.jpeg" media-type="image/jpeg"/>
+    <item id="f69" href="Images/f69.jpeg" media-type="image/jpeg"/>
+    <item id="f70" href="Images/f70.jpeg" media-type="image/jpeg"/>
+    <item id="f71" href="Images/f71.jpeg" media-type="image/jpeg"/>
+    <item id="f72" href="Images/f72.jpeg" media-type="image/jpeg"/>
+    <item id="f73" href="Images/f73.jpeg" media-type="image/jpeg"/>
+    <item id="f74" href="Images/f74.jpeg" media-type="image/jpeg"/>
+    <item id="f75" href="Images/f75.jpeg" media-type="image/jpeg"/>
+    <item id="f76" href="Images/f76.jpeg" media-type="image/jpeg"/>
+    <item id="f77" href="Images/f77.jpeg" media-type="image/jpeg"/>
+    <item id="f78" href="Images/f78.jpeg" media-type="image/jpeg"/>
+    <item id="f79" href="Images/f79.jpeg" media-type="image/jpeg"/>
+    <item id="f80" href="Images/f80.jpeg" media-type="image/jpeg"/>
+    <item id="f81" href="Images/f81.jpeg" media-type="image/jpeg"/>
+    <item id="f82" href="Images/f82.jpeg" media-type="image/jpeg"/>
+    <item id="f83" href="Images/f83.jpeg" media-type="image/jpeg"/>
+    <item id="f84" href="Images/f84.jpeg" media-type="image/jpeg"/>
+    <item id="f85" href="Images/f85.jpeg" media-type="image/jpeg"/>
+    <item id="f86" href="Images/f86.jpeg" media-type="image/jpeg"/>
+    <item id="f87" href="Images/f87.jpeg" media-type="image/jpeg"/>
+    <item id="f88" href="Images/f88.jpeg" media-type="image/jpeg"/>
+    <item id="f89" href="Images/f89.jpeg" media-type="image/jpeg"/>
+    <item id="f90" href="Images/f90.jpeg" media-type="image/jpeg"/>
+    <item id="f91" href="Images/f91.jpeg" media-type="image/jpeg"/>
+    <item id="f92" href="Images/f92.jpeg" media-type="image/jpeg"/>
+    <item id="f93" href="Images/f93.jpeg" media-type="image/jpeg"/>
+    <item id="f94" href="Images/f94.jpg" media-type="image/jpeg"/>
+    <item id="f95" href="Images/f95.jpg" media-type="image/jpeg"/>
+    <item id="f96" href="Images/f96.png" media-type="image/png"/>
+    <item id="f97" href="Images/f97.jpg" media-type="image/jpeg"/>
+    <item id="f98" href="Images/f98.png" media-type="image/png"/>
+    <item id="f99" href="Fonts/f99.ttf" media-type="application/x-font-ttf"/>
+    <item id="f100" href="Fonts/f100.ttf" media-type="application/x-font-ttf"/>
+    <item id="f101" href="Fonts/f101.ttf" media-type="application/x-font-ttf"/>
+    <item id="f102" href="Fonts/f102.ttf" media-type="application/x-font-ttf"/>
+    <item id="f103" href="Fonts/f103.ttf" media-type="application/x-font-ttf"/>
+    <item id="f104" href="Fonts/f104.ttf" media-type="application/x-font-ttf"/>
+    <item id="f105" href="Fonts/f105.ttf" media-type="application/x-font-ttf"/>
+    <item id="f106" href="Images/f106.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="f0" properties="duokan-page-fullscreen"/>
+    <itemref idref="f1"/>
+    <itemref idref="f2"/>
+    <itemref idref="f3"/>
+    <itemref idref="f4"/>
+    <itemref idref="f5"/>
+    <itemref idref="f41"/>
+    <itemref idref="f6"/>
+    <itemref idref="f42"/>
+    <itemref idref="f7"/>
+    <itemref idref="f43"/>
+    <itemref idref="f8"/>
+    <itemref idref="f44"/>
+    <itemref idref="f9"/>
+    <itemref idref="f45"/>
+    <itemref idref="f10"/>
+    <itemref idref="f46"/>
+    <itemref idref="f11"/>
+    <itemref idref="f47"/>
+    <itemref idref="f12"/>
+    <itemref idref="f48"/>
+    <itemref idref="f13"/>
+    <itemref idref="f52"/>
+    <itemref idref="f14"/>
+    <itemref idref="f53"/>
+    <itemref idref="f15"/>
+    <itemref idref="f54"/>
+    <itemref idref="f16"/>
+    <itemref idref="f55"/>
+    <itemref idref="f17"/>
+    <itemref idref="f18"/>
+    <itemref idref="f19"/>
+    <itemref idref="f20"/>
+    <itemref idref="f21"/>
+    <itemref idref="f56"/>
+    <itemref idref="f22"/>
+    <itemref idref="f59"/>
+    <itemref idref="f23"/>
+    <itemref idref="f60"/>
+    <itemref idref="f24"/>
+    <itemref idref="f57"/>
+    <itemref idref="f25"/>
+    <itemref idref="f58"/>
+    <itemref idref="f26"/>
+    <itemref idref="f27"/>
+    <itemref idref="f28"/>
+    <itemref idref="f50"/>
+    <itemref idref="f29"/>
+    <itemref idref="f49"/>
+    <itemref idref="f30"/>
+    <itemref idref="f32"/>
+    <itemref idref="f31"/>
+    <itemref idref="f51"/>
+    <itemref idref="f40"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/f0.xhtml"/>
+  </guide>
+</package>
